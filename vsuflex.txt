@@ -1,0 +1,9 @@
+intall sanity. 
+init sanity.
+sanity start.
+
+create react app in the current folder
+npx create-react-app@next --scripts-version=@next --template=cra-template@next ./
+
+install all needed packages 
+ npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uuid
